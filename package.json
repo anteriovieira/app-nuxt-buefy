@@ -1,0 +1,23 @@
+{
+  "name": "app-nuxt-buefy",
+  "version": "1.0.0",
+  "description": "My hunky-dory Nuxt.js project",
+  "author": "Antério vieira",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "node-sass": "^4.9.0",
+    "nuxt": "^1.0.0",
+    "nuxt-buefy": "^0.0.4",
+    "sass-loader": "^7.0.1"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1"
+  }
+}
